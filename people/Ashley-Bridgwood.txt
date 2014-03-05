@@ -1,0 +1,2 @@
+Clear instructions on how to get to this point.
+Very useful work sheet, especially for someone who has not used GIT before.
